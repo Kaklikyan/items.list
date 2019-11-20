@@ -8,7 +8,7 @@ export const Self = styled.div`
 `;
 
 export const Container = styled.div`
-  margin: 0 200px;
+  margin: 100px 200px;
   width: 100%;
   background-color: white;
   border: 1px solid #cccccc;

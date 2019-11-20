@@ -7,9 +7,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export const Self = styled.div`
-  height: 100vh;
-`;
+export const Self = styled.div``;
 
 export const Header = styled.div`
   background-color: #4b555f;
@@ -20,5 +18,4 @@ export const Header = styled.div`
 
 export const Wrapper = styled.div`
   display: flex;
-  height: calc(100% - 77px);
 `;
